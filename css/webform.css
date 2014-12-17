@@ -1,0 +1,66 @@
+/*
+    Document   : webform.css
+    Created on : 19-Sep-2011, 2:40:58 PM
+    Author     : Zeitguys, inc.
+    Description:
+        Default styles for webforms used in admin back-end.
+*/
+
+
+/* CSS Styles used specifically on the admin back-end */
+
+
+
+/* General styles */
+
+.zg-error { color:red; font-weight:bold; }
+.zg-warning { font-weight:bold; color:silver; }
+
+/* Specific styles for this implementation (strip out if cloning this theme) */
+
+/* end Theme-specific styles */
+
+
+
+/* Metabox form styles */
+
+.meta-box-sortables div.ui-datepicker-inline {
+	width:260px;
+	margin-top:10px;
+}
+
+.meta-box-sortables label.valz_metabox {
+	display:block;
+	clear:both;
+	/*min-height:30px; /* to work with .align-right's float */
+}
+
+
+.meta-box-sortables label.valz_metabox input,
+.meta-box-sortables label.valz_metabox select {
+	margin-left:10px;
+}
+
+.meta-box-sortables label.valz_metabox .full {
+	display:block;
+	margin-left:1px;
+	width:100%;
+}
+
+.meta-box-sortables label.valz_metabox .align-right {
+	display:inline-block;
+	float:right;
+}
+
+label.valz_metabox .currency {
+	white-space:nowrap;
+	padding-left:10px;
+}
+
+label.valz_metabox .currency input {
+	margin-left:5px;
+}
+
+textarea.widefat {
+	height: 6em;
+}
