@@ -1,6 +1,6 @@
 <?php
 
-	require_once('Valz_Webform.php');
+	require_once('../core/Valz_Webform.php');
 
 	/**
 	 * Extends Valz_Webform and provides convenience methods that depend on WordPress functions and classes.
