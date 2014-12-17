@@ -80,7 +80,7 @@
 		const SELECT_CONTROL_CLASS = '';
 		const REQUIRED_FIELD_CLASS = 'required';
 
-		const OFRM_BUTTONS_SPAN_CLASS = 'savebuttons';
+		const FORM_BUTTONS_SPAN_CLASS = 'savebuttons';
 
 
 		/**
