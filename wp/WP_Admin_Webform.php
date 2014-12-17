@@ -1,6 +1,6 @@
 <?php
 
-require_once( 'Valz_Webform.php' );
+require_once( '../core/Valz_Webform.php' );
 
 /*
  * Extends Valz_Webform in an attempt to make admin-page forms easier to deal with.
