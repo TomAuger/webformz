@@ -6,9 +6,11 @@
 	 * Provide a simple API that generates various forms used in WordPress,
 	 * particularly in Admin. Based on Valz::Webforms
 	 * @author Tom Auger
-	 * @version 0.5 (IFOA)
+	 * @version 0.6
 	 *
 	 * @changelog
+	 * V0.6:
+	 * - added to GitHub. Will probably eventually remove this changelog as a result.
 	 * V0.5:
 	 * - added get_field() and get_field_value() to provide low-level direct access to a form's fields for manipulation of the form and data after it's been created.
 	 * - expanded the 'time' input type to include separate hour and minute fields
