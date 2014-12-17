@@ -1,6 +1,6 @@
 <?php
 
-require_once('Webformz/Valz_Widgetform.php');
+require_once('WP_Widget_Webform.php');
 
 /**
  * Base class for Zeitguys widgets.
