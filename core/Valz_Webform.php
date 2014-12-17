@@ -1,6 +1,6 @@
 <?php
 	//namespace Zeitguys;
-	require_once(ZG_LIB . '/zg-utilities.php');
+	require_once('../lib/zg-utilities.php');
 
 	/**
 	 * Provide a simple API that generates various forms used in WordPress,
