@@ -1,14 +1,22 @@
 <?php
 
+require_once( '../wp/ZG_Widget.php' );
+
 /**
  * Class: ZG_BGButtonWidget
  * 
- * Creates a background button
- * styled using CSS
+ * Creates a background button WordPress Widget that's
+ * styled using CSS.
+ * 
+ * Included as an example of how to leverage ZG_Widget, which in turn, leverages
+ * WP_Widget_Webform.
  *
-  * @version 1.3
+ * @version 1.4
  * 
  * @changelog
+ * 1.4
+ * - Added to webformz GitHub repository as an example.
+ * 
  * 1.3
  * - Added include title in Link checkbox
  * 
