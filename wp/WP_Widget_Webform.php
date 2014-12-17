@@ -1,5 +1,5 @@
 <?php
-require_once('Valz_Webform.php');
+require_once('../core/Valz_Webform.php');
 
 /*
  * WidgetForm implements Valz::Webform specifically for use in
